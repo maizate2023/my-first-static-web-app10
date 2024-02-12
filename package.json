@@ -5,3 +5,6 @@
     "start": "sirv ./src public --cors --single --no-clear --port 8000"
   }
 }
+"scripts": {
+  "build": "votre_commande_de_construction"
+}
